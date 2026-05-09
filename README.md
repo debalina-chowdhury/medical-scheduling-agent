@@ -1,3 +1,4 @@
+[![CI](https://github.com/debalina-chowdhury/medical-scheduling-agent/actions/workflows/python-app.yml/badge.svg)](https://github.com/debalina-chowdhury/medical-scheduling-agent/actions)
 # 📅 MedSchedule AI
 
 An AI-powered medical practice scheduling assistant built with Anthropic's Claude API and Streamlit. The agent handles end-to-end appointment workflows — finding providers, verifying insurance eligibility, processing referrals, and booking appointments — all through natural language.
